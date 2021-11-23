@@ -1,4 +1,3 @@
-
 import random
 while True:
     n = random.randint(99999999999999,9999999999999999999999999999999999999999999999999999999)
@@ -11,4 +10,3 @@ while True:
                     break
             if(count == 1):
                 print(i)
-    
