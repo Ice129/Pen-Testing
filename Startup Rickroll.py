@@ -1,8 +1,6 @@
 import os
 import time
 
-
-
 # create a new file
 file = open("rickroll.py", "w")
 
